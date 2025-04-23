@@ -1,0 +1,21 @@
+{
+  "name": "material-sandy-beach",
+  "displayName": "Material Sandy Beach Theme",
+  "description": "A VS Code theme converted from the Material Sandy Beach GoLand scheme.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material Sandy Beach",
+        "uiTheme": "vs",
+        "path": "./themes/material-sandy-beach.color-theme.json"
+      }
+    ]
+  }
+}
